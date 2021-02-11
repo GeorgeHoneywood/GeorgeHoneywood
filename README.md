@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a CS student at Royal Holloway, interested in backend and DevOps.
+
 <!--
 **GeorgeHoneywood/GeorgeHoneywood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
