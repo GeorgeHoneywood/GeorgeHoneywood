@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm a CS student at Royal Holloway, interested in backend and DevOps.
+I'm a CS student at Royal Holloway, mostly interested in DevOps ands backend. I am currently completing my Year in Industry as a Junior Software Engineer at Cudo in Bournemouth.
+
+I've previously worked as a Junior Systems Administrator in the Royal Holloway Particle Physics Department, where I helped to monitor and manage their compute and storage clusters (200 nodes plus).
+
+When I'm not working I like to spend time contributing to OpenStreetMap, or getting lost in the countryside.
 
 <!--
 **GeorgeHoneywood/GeorgeHoneywood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
