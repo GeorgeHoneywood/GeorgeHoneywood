@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a CS student at Royal Holloway, mostly interested in DevOps ands backend. I am currently completing my Year in Industry as a Junior Software Engineer at Cudo in Bournemouth.
+I'm a CS student at Royal Holloway, mostly interested in DevOps and backend. I am currently completing my Year in Industry as a Junior Software Engineer at Cudo in Bournemouth.
 
-I've previously worked as a Junior Systems Administrator in the Royal Holloway Particle Physics Department, where I helped to monitor and manage their compute and storage clusters (200 nodes plus).
+I've previously worked as a Junior Systems Administrator in the Royal Holloway Particle Physics Department, where I helped to monitor and manage their compute and storage clusters (200+ nodes).
 
 When I'm not working I like to spend time contributing to OpenStreetMap, or getting lost in the countryside.
 
