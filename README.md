@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a final year CS student at Royal Holloway. As part of my degree, I completed a Year in Industry placement as a Junior Software Engineer, for Cudo, in Bournemouth. 
+I'm a final year CS student at Royal Holloway, currently looking for a Software Engineering graduate role. As part of my degree, I completed a Year in Industry placement as a Junior Software Engineer, for Cudo, in Bournemouth. 
 
 While at Cudo I mostly worked on their Node.js API, but did quite a lot of frontend work in Vue too. I also helped develop their first Go based microservice — Go is now probably my favourite language.
 
