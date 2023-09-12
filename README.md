@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a final year Computer Science student at Royal Holloway, currently looking for a graduate role. As part of my degree, I completed a Year in Industry placement as a Junior Software Engineer, for Cudo, in Bournemouth. 
+I'm a Computer Science graduate from Royal Holloway, currently working as in Infrastructure Assistant at GSA Capital in London.
+
+As part of my degree, I completed a Year in Industry placement as a Junior Software Engineer, for Cudo, in Bournemouth. 
 
 While at Cudo I mostly worked on their Node.js API, but did quite a lot of frontend work in Vue too. I also helped develop their first Go based microservice — Go is now probably my favourite language.
 
