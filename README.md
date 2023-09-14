@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Computer Science graduate from Royal Holloway, currently working as in Infrastructure Assistant at GSA Capital in London.
+I'm a Computer Science graduate from Royal Holloway, currently working as an Infrastructure Assistant at GSA Capital in London.
 
 As part of my degree, I completed a Year in Industry placement as a Junior Software Engineer, for Cudo, in Bournemouth. 
 
